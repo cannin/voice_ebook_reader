@@ -1,0 +1,2645 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="http://www.gutenberg.org/ebooks/2680"/>
+    <meta name="dtb:depth" content="4"/>
+    <meta name="dtb:generator" content="Ebookmaker 0.4.0a5 by Marcello Perathoner &lt;webmaster@gutenberg.org&gt;"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Meditations</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>MEDITATIONS</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-0.htm.html#pgepubid00000"/>
+      <navPoint id="np-2" playOrder="2">
+        <navLabel>
+          <text>MARCUS AURELIUS ANTONINUS THE ROMAN EMPEROR</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-0.htm.html#pgepubid00001"/>
+      </navPoint>
+      <navPoint id="np-3" playOrder="3">
+        <navLabel>
+          <text>BOOKS</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-0.htm.html#pgepubid00002"/>
+        <navPoint id="np-4" playOrder="4">
+          <navLabel>
+            <text>Paragraphs with First Lines</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-1.htm.html#pgepubid00003"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np-5" playOrder="5">
+        <navLabel>
+          <text>INTRODUCTION</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-3.htm.html#pgepubid00004"/>
+      </navPoint>
+      <navPoint id="np-6" playOrder="6">
+        <navLabel>
+          <text>HIS FIRST BOOK</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-3.htm.html#pgepubid00005"/>
+        <navPoint id="np-7" playOrder="7">
+          <navLabel>
+            <text>concerning HIMSELF:</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-3.htm.html#pgepubid00006"/>
+          <navPoint id="np-8" playOrder="8">
+            <navLabel>
+              <text>I. Of my grandfather Verus I have learned to be gentle and meek, and to</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-3.htm.html#pgepubid00007"/>
+          </navPoint>
+          <navPoint id="np-9" playOrder="9">
+            <navLabel>
+              <text>II. Of him that brought me up, not to be fondly addicted to either of</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-3.htm.html#pgepubid00008"/>
+          </navPoint>
+          <navPoint id="np-10" playOrder="10">
+            <navLabel>
+              <text>III. Of Diognetus, not to busy myself about vain things, and not easily</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-3.htm.html#pgepubid00009"/>
+          </navPoint>
+          <navPoint id="np-11" playOrder="11">
+            <navLabel>
+              <text>IV. To Rusticus I am beholding, that I first entered into the conceit</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-3.htm.html#pgepubid00010"/>
+          </navPoint>
+          <navPoint id="np-12" playOrder="12">
+            <navLabel>
+              <text>V. From Apollonius, true liberty, and unvariable steadfastness, and not</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-3.htm.html#pgepubid00011"/>
+          </navPoint>
+          <navPoint id="np-13" playOrder="13">
+            <navLabel>
+              <text>VI. Of Sextus, mildness and the pattern of a family governed with</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-3.htm.html#pgepubid00012"/>
+          </navPoint>
+          <navPoint id="np-14" playOrder="14">
+            <navLabel>
+              <text>VII. From Alexander the Grammarian, to be un-reprovable myself, and not</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-3.htm.html#pgepubid00013"/>
+          </navPoint>
+          <navPoint id="np-15" playOrder="15">
+            <navLabel>
+              <text>VIII. Of Fronto, to how much envy and fraud and hypocrisy the state of a</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-3.htm.html#pgepubid00014"/>
+          </navPoint>
+          <navPoint id="np-16" playOrder="16">
+            <navLabel>
+              <text>IX. Of Alexander the Platonic, not often nor without great necessity to</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-3.htm.html#pgepubid00015"/>
+          </navPoint>
+          <navPoint id="np-17" playOrder="17">
+            <navLabel>
+              <text>X. Of Catulus, not to contemn any friend's expostulation, though unjust,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-3.htm.html#pgepubid00016"/>
+          </navPoint>
+          <navPoint id="np-18" playOrder="18">
+            <navLabel>
+              <text>XI. From my brother Severus, to be kind and loving to all them of my</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-3.htm.html#pgepubid00017"/>
+          </navPoint>
+          <navPoint id="np-19" playOrder="19">
+            <navLabel>
+              <text>XII. From Claudius Maximus, in all things to endeavour to have power</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-3.htm.html#pgepubid00018"/>
+          </navPoint>
+          <navPoint id="np-20" playOrder="20">
+            <navLabel>
+              <text>XIII. In my father, I observed his meekness; his constancy without</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-3.htm.html#pgepubid00019"/>
+          </navPoint>
+          <navPoint id="np-21" playOrder="21">
+            <navLabel>
+              <text>XIV. From the gods I received that I had good grandfathers, and parents,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-3.htm.html#pgepubid00020"/>
+          </navPoint>
+          <navPoint id="np-22" playOrder="22">
+            <navLabel>
+              <text>XV. In the country of the Quadi at Granua, these. Betimes in the morning</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00021"/>
+          </navPoint>
+          <navPoint id="np-23" playOrder="23">
+            <navLabel>
+              <text>XVI. Whatsoever I am, is either flesh, or life, or that which we</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00022"/>
+          </navPoint>
+          <navPoint id="np-24" playOrder="24">
+            <navLabel>
+              <text>XVII. Whatsoever proceeds from the gods immediately, that any man will</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00023"/>
+          </navPoint>
+          <navPoint id="np-25" playOrder="25">
+            <navLabel>
+              <text>THE SECOND BOOK</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00024"/>
+          </navPoint>
+          <navPoint id="np-26" playOrder="26">
+            <navLabel>
+              <text>I. Remember how long thou hast already put off these things, and how</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00025"/>
+          </navPoint>
+          <navPoint id="np-27" playOrder="27">
+            <navLabel>
+              <text>II. Let it be thy earnest and incessant care as a Roman and a man to</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00026"/>
+          </navPoint>
+          <navPoint id="np-28" playOrder="28">
+            <navLabel>
+              <text>III. Do, soul, do; abuse and contemn thyself; yet a while and the time</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00027"/>
+          </navPoint>
+          <navPoint id="np-29" playOrder="29">
+            <navLabel>
+              <text>IV. Why should any of these things that happen externally, so much</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00028"/>
+          </navPoint>
+          <navPoint id="np-30" playOrder="30">
+            <navLabel>
+              <text>V. For not observing the state of another man's soul, scarce was ever</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00029"/>
+          </navPoint>
+          <navPoint id="np-31" playOrder="31">
+            <navLabel>
+              <text>VI. These things thou must always have in mind: What is the nature</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00030"/>
+          </navPoint>
+          <navPoint id="np-32" playOrder="32">
+            <navLabel>
+              <text>VII. Theophrastus, where he compares sin with sin (as after a vulgar</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00031"/>
+          </navPoint>
+          <navPoint id="np-33" playOrder="33">
+            <navLabel>
+              <text>VIII. Whatsoever thou dost affect, whatsoever thou dost project, so do,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00032"/>
+          </navPoint>
+          <navPoint id="np-34" playOrder="34">
+            <navLabel>
+              <text>IX. Consider how quickly all things are dissolved and resolved: the</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00033"/>
+          </navPoint>
+          <navPoint id="np-35" playOrder="35">
+            <navLabel>
+              <text>X. It is the part of a man endowed with a good understanding faculty, to</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00034"/>
+          </navPoint>
+          <navPoint id="np-36" playOrder="36">
+            <navLabel>
+              <text>XI. Consider with thyself how man, and by what part of his, is joined</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00035"/>
+          </navPoint>
+          <navPoint id="np-37" playOrder="37">
+            <navLabel>
+              <text>XII. If thou shouldst live three thousand, or as many as ten thousands</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00036"/>
+          </navPoint>
+          <navPoint id="np-38" playOrder="38">
+            <navLabel>
+              <text>XIII. Remember that all is but opinion and conceit, for those things</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00037"/>
+          </navPoint>
+          <navPoint id="np-39" playOrder="39">
+            <navLabel>
+              <text>XIV. A man's soul doth wrong and disrespect itself first and especially,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00038"/>
+          </navPoint>
+          <navPoint id="np-40" playOrder="40">
+            <navLabel>
+              <text>XV. The time of a man's life is as a point; the substance of it ever</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00039"/>
+          </navPoint>
+          <navPoint id="np-41" playOrder="41">
+            <navLabel>
+              <text>THE THIRD BOOK</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00040"/>
+          </navPoint>
+          <navPoint id="np-42" playOrder="42">
+            <navLabel>
+              <text>I. A man must not only consider how daily his life wasteth and</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00041"/>
+          </navPoint>
+          <navPoint id="np-43" playOrder="43">
+            <navLabel>
+              <text>II. This also thou must observe, that whatsoever it is that naturally</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00042"/>
+          </navPoint>
+          <navPoint id="np-44" playOrder="44">
+            <navLabel>
+              <text>III. Hippocrates having cured many sicknesses, fell sick himself and</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00043"/>
+          </navPoint>
+          <navPoint id="np-45" playOrder="45">
+            <navLabel>
+              <text>IV. Spend not the remnant of thy days in thoughts and fancies concerning</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00044"/>
+          </navPoint>
+          <navPoint id="np-46" playOrder="46">
+            <navLabel>
+              <text>V. Do nothing against thy will, nor contrary to the community, nor</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00045"/>
+          </navPoint>
+          <navPoint id="np-47" playOrder="47">
+            <navLabel>
+              <text>VI. To be cheerful, and to stand in no need, either of other men's help</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00046"/>
+          </navPoint>
+          <navPoint id="np-48" playOrder="48">
+            <navLabel>
+              <text>VII. If thou shalt find anything in this mortal life better than</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00047"/>
+          </navPoint>
+          <navPoint id="np-49" playOrder="49">
+            <navLabel>
+              <text>VIII. Never esteem of anything as profitable, which shall ever constrain</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00048"/>
+          </navPoint>
+          <navPoint id="np-50" playOrder="50">
+            <navLabel>
+              <text>IX. In the mind that is once truly disciplined and purged, thou canst</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00049"/>
+          </navPoint>
+          <navPoint id="np-51" playOrder="51">
+            <navLabel>
+              <text>X. Use thine opinative faculty with all honour and respect, for in</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00050"/>
+          </navPoint>
+          <navPoint id="np-52" playOrder="52">
+            <navLabel>
+              <text>XI. To these ever-present helps and mementoes, let one more be added,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00051"/>
+          </navPoint>
+          <navPoint id="np-53" playOrder="53">
+            <navLabel>
+              <text>XII. What is this, that now my fancy is set upon? of what things doth</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00052"/>
+          </navPoint>
+          <navPoint id="np-54" playOrder="54">
+            <navLabel>
+              <text>XIII. If thou shalt intend that which is present, following the rule of</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00053"/>
+          </navPoint>
+          <navPoint id="np-55" playOrder="55">
+            <navLabel>
+              <text>XIV. As physicians and chirurgeons have always their instruments ready</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00054"/>
+          </navPoint>
+          <navPoint id="np-56" playOrder="56">
+            <navLabel>
+              <text>XV. Be not deceived; for thou shalt never live to read thy moral</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00055"/>
+          </navPoint>
+          <navPoint id="np-57" playOrder="57">
+            <navLabel>
+              <text>XVI. To steal, to sow, to buy, to be at rest, to see what is to be done</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00056"/>
+          </navPoint>
+          <navPoint id="np-58" playOrder="58">
+            <navLabel>
+              <text>XVII. To be capable of fancies and imaginations, is common to man and</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00057"/>
+          </navPoint>
+          <navPoint id="np-59" playOrder="59">
+            <navLabel>
+              <text>THE FOURTH BOOK</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00058"/>
+          </navPoint>
+          <navPoint id="np-60" playOrder="60">
+            <navLabel>
+              <text>I. That inward mistress part of man if it be in its own true natural</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00059"/>
+          </navPoint>
+          <navPoint id="np-61" playOrder="61">
+            <navLabel>
+              <text>II. Let nothing be done rashly, and at random, but all things according</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00060"/>
+          </navPoint>
+          <navPoint id="np-62" playOrder="62">
+            <navLabel>
+              <text>III. They seek for themselves private retiring</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00061"/>
+          </navPoint>
+          <navPoint id="np-63" playOrder="63">
+            <navLabel>
+              <text>IV. If to understand and to be reasonable be common unto all men, then</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-4.htm.html#pgepubid00062"/>
+          </navPoint>
+          <navPoint id="np-64" playOrder="64">
+            <navLabel>
+              <text>V. As generation is, so also death, a secret of nature's wisdom: a</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00063"/>
+          </navPoint>
+          <navPoint id="np-65" playOrder="65">
+            <navLabel>
+              <text>VI. Such and such things, from such and such causes, must of necessity</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00064"/>
+          </navPoint>
+          <navPoint id="np-66" playOrder="66">
+            <navLabel>
+              <text>VII. Let opinion be taken away, and no man will think himself wronged.</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00065"/>
+          </navPoint>
+          <navPoint id="np-67" playOrder="67">
+            <navLabel>
+              <text>VIII. Whatsoever doth happen in the world, doth happen justly, and so if</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00066"/>
+          </navPoint>
+          <navPoint id="np-68" playOrder="68">
+            <navLabel>
+              <text>IX. Conceit no such things, as he that wrongeth thee conceiveth,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00067"/>
+          </navPoint>
+          <navPoint id="np-69" playOrder="69">
+            <navLabel>
+              <text>X. These two rules, thou must have always in a readiness. First, do</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00068"/>
+          </navPoint>
+          <navPoint id="np-70" playOrder="70">
+            <navLabel>
+              <text>XI. Hast thou reason? I have. Why then makest thou not use of it? For if</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00069"/>
+          </navPoint>
+          <navPoint id="np-71" playOrder="71">
+            <navLabel>
+              <text>XII. As a part hitherto thou hast had a particular subsistence: and now</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00070"/>
+          </navPoint>
+          <navPoint id="np-72" playOrder="72">
+            <navLabel>
+              <text>XIII. Within ten days, if so happen, thou shalt be esteemed a god of</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00071"/>
+          </navPoint>
+          <navPoint id="np-73" playOrder="73">
+            <navLabel>
+              <text>XIV. Not as though thou hadst thousands of years to live. Death hangs</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00072"/>
+          </navPoint>
+          <navPoint id="np-74" playOrder="74">
+            <navLabel>
+              <text>XV. Now much time and leisure doth he gain, who is not curious to know</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00073"/>
+          </navPoint>
+          <navPoint id="np-75" playOrder="75">
+            <navLabel>
+              <text>XVI. He who is greedy of credit and reputation after his death, doth</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00074"/>
+          </navPoint>
+          <navPoint id="np-76" playOrder="76">
+            <navLabel>
+              <text>XVII. If so be that the souls remain after death (say they that will not</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00075"/>
+          </navPoint>
+          <navPoint id="np-77" playOrder="77">
+            <navLabel>
+              <text>XVIII. Not to wander out of the way, but upon every motion and desire,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00076"/>
+          </navPoint>
+          <navPoint id="np-78" playOrder="78">
+            <navLabel>
+              <text>XIX. Whatsoever is expedient unto thee, O World, is expedient unto me;</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00077"/>
+          </navPoint>
+          <navPoint id="np-79" playOrder="79">
+            <navLabel>
+              <text>XX. They will say commonly, Meddle not with many things, if thou wilt</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00078"/>
+          </navPoint>
+          <navPoint id="np-80" playOrder="80">
+            <navLabel>
+              <text>XXI. Try also how a good man's life; (of one, who is well pleased with</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00079"/>
+          </navPoint>
+          <navPoint id="np-81" playOrder="81">
+            <navLabel>
+              <text>XXII. Either this world is a kosmoz or comely piece, because all</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00080"/>
+          </navPoint>
+          <navPoint id="np-82" playOrder="82">
+            <navLabel>
+              <text>XXIII. A black or malign disposition, an effeminate disposition; an</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00081"/>
+          </navPoint>
+          <navPoint id="np-83" playOrder="83">
+            <navLabel>
+              <text>XXIV. He is a true fugitive, that flies from reason, by which men are</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00082"/>
+          </navPoint>
+          <navPoint id="np-84" playOrder="84">
+            <navLabel>
+              <text>XXV. There is, who without so much as a coat; and there is, who without</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00083"/>
+          </navPoint>
+          <navPoint id="np-85" playOrder="85">
+            <navLabel>
+              <text>XXVI. What art and profession soever thou hast learned, endeavour to</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00084"/>
+          </navPoint>
+          <navPoint id="np-86" playOrder="86">
+            <navLabel>
+              <text>XXVII. Consider in my mind, for example's sake, the times of Vespasian:</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00085"/>
+          </navPoint>
+          <navPoint id="np-87" playOrder="87">
+            <navLabel>
+              <text>XXVIII. Those words which once were common and ordinary, are now become</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00086"/>
+          </navPoint>
+          <navPoint id="np-88" playOrder="88">
+            <navLabel>
+              <text>XXIX. Whatsoever is now present, and from day to day hath its existence;</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00087"/>
+          </navPoint>
+          <navPoint id="np-89" playOrder="89">
+            <navLabel>
+              <text>XXX. Thou art now ready to die, and yet hast thou not attained to</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00088"/>
+          </navPoint>
+          <navPoint id="np-90" playOrder="90">
+            <navLabel>
+              <text>XXXI. Behold and observe, what is the state of their rational part; and</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00089"/>
+          </navPoint>
+          <navPoint id="np-91" playOrder="91">
+            <navLabel>
+              <text>XXXII. In another man's mind and understanding thy evil Cannot subsist,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00090"/>
+          </navPoint>
+          <navPoint id="np-92" playOrder="92">
+            <navLabel>
+              <text>XXXIII. Ever consider and think upon the world as being but one living</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00091"/>
+          </navPoint>
+          <navPoint id="np-93" playOrder="93">
+            <navLabel>
+              <text>XXXIV. What art thou, that better and divine part excepted, but as</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00092"/>
+          </navPoint>
+          <navPoint id="np-94" playOrder="94">
+            <navLabel>
+              <text>XXXV. To suffer change can be no hurt; as no benefit it is, by change to</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00093"/>
+          </navPoint>
+          <navPoint id="np-95" playOrder="95">
+            <navLabel>
+              <text>XXXVI. Whatsoever doth happen in the world, is, in the course of nature,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00094"/>
+          </navPoint>
+          <navPoint id="np-96" playOrder="96">
+            <navLabel>
+              <text>XXXVII. Let that of Heraclitus never be out of thy mind, that the death</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00095"/>
+          </navPoint>
+          <navPoint id="np-97" playOrder="97">
+            <navLabel>
+              <text>XXXVIII. Even as if any of the gods should tell thee, Thou shalt</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00096"/>
+          </navPoint>
+          <navPoint id="np-98" playOrder="98">
+            <navLabel>
+              <text>XXXIX. Let it be thy perpetual meditation, how many physicians who</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00097"/>
+          </navPoint>
+          <navPoint id="np-99" playOrder="99">
+            <navLabel>
+              <text>XL. Thou must be like a promontory of the sea, against which though</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00098"/>
+          </navPoint>
+          <navPoint id="np-100" playOrder="100">
+            <navLabel>
+              <text>XLI. Oh, wretched I, to whom this mischance is happened! nay, happy I,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00099"/>
+          </navPoint>
+          <navPoint id="np-101" playOrder="101">
+            <navLabel>
+              <text>XLII. It is but an ordinary coarse one, yet it is a good effectual</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00100"/>
+          </navPoint>
+          <navPoint id="np-102" playOrder="102">
+            <navLabel>
+              <text>XLIII. Let thy course ever be the most compendious way. The most</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00101"/>
+          </navPoint>
+          <navPoint id="np-103" playOrder="103">
+            <navLabel>
+              <text>THE FIFTH BOOK</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00102"/>
+          </navPoint>
+          <navPoint id="np-104" playOrder="104">
+            <navLabel>
+              <text>I. In the morning when thou findest thyself unwilling to rise, consider</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00103"/>
+          </navPoint>
+          <navPoint id="np-105" playOrder="105">
+            <navLabel>
+              <text>II. How easy a thing is it for a man to put off from him all turbulent</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00104"/>
+          </navPoint>
+          <navPoint id="np-106" playOrder="106">
+            <navLabel>
+              <text>III. Think thyself fit and worthy to speak, or to do anything that is</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00105"/>
+          </navPoint>
+          <navPoint id="np-107" playOrder="107">
+            <navLabel>
+              <text>IV. I continue my course by actions according to nature, until I</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00106"/>
+          </navPoint>
+          <navPoint id="np-108" playOrder="108">
+            <navLabel>
+              <text>V. No man can admire thee for thy sharp acute language, such is thy</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00107"/>
+          </navPoint>
+          <navPoint id="np-109" playOrder="109">
+            <navLabel>
+              <text>VI. Such there be, who when they have done a good turn to any, are ready</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00108"/>
+          </navPoint>
+          <navPoint id="np-110" playOrder="110">
+            <navLabel>
+              <text>VII. The form of the Athenians' prayer did run thus: 'O rain, rain, good</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00109"/>
+          </navPoint>
+          <navPoint id="np-111" playOrder="111">
+            <navLabel>
+              <text>VIII. As we say commonly, The physician hath prescribed unto this man,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00110"/>
+          </navPoint>
+          <navPoint id="np-112" playOrder="112">
+            <navLabel>
+              <text>IX. Be not discontented, be not disheartened, be not out of hope, if</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00111"/>
+          </navPoint>
+          <navPoint id="np-113" playOrder="113">
+            <navLabel>
+              <text>X. Thou must comfort thyself in the expectation of thy natural</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-5.htm.html#pgepubid00112"/>
+          </navPoint>
+          <navPoint id="np-114" playOrder="114">
+            <navLabel>
+              <text>XI. What is the use that now at this present I make of my soul? Thus</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00113"/>
+          </navPoint>
+          <navPoint id="np-115" playOrder="115">
+            <navLabel>
+              <text>XII. What those things are in themselves, which by the greatest part are</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00114"/>
+          </navPoint>
+          <navPoint id="np-116" playOrder="116">
+            <navLabel>
+              <text>XIII. All that I consist of, is either form or matter. No corruption can</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00115"/>
+          </navPoint>
+          <navPoint id="np-117" playOrder="117">
+            <navLabel>
+              <text>XIV. Reason, and rational power, are faculties which content themselves</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00116"/>
+          </navPoint>
+          <navPoint id="np-118" playOrder="118">
+            <navLabel>
+              <text>XV. Such as thy thoughts and ordinary cogitations are, such will thy</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00117"/>
+          </navPoint>
+          <navPoint id="np-119" playOrder="119">
+            <navLabel>
+              <text>XVI. To desire things impossible is the part of a mad man. But it is a</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00118"/>
+          </navPoint>
+          <navPoint id="np-120" playOrder="120">
+            <navLabel>
+              <text>XVII. After one consideration, man is nearest unto us; as we are bound</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00119"/>
+          </navPoint>
+          <navPoint id="np-121" playOrder="121">
+            <navLabel>
+              <text>XVIII. Honour that which is chiefest and most powerful in the world, and</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00120"/>
+          </navPoint>
+          <navPoint id="np-122" playOrder="122">
+            <navLabel>
+              <text>XIX. That which doth not hurt the city itself; cannot hurt any citizen.</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00121"/>
+          </navPoint>
+          <navPoint id="np-123" playOrder="123">
+            <navLabel>
+              <text>XX. Let not that chief commanding part of thy soul be ever subject to</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00122"/>
+          </navPoint>
+          <navPoint id="np-124" playOrder="124">
+            <navLabel>
+              <text>XXI. To live with the Gods. He liveth with the Gods, who at all times</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00123"/>
+          </navPoint>
+          <navPoint id="np-125" playOrder="125">
+            <navLabel>
+              <text>XXII. Be not angry neither with him whose breath, neither with him whose</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00124"/>
+          </navPoint>
+          <navPoint id="np-126" playOrder="126">
+            <navLabel>
+              <text>XXIII. 'Where there shall neither roarer be, nor harlot.' Why so? As</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00125"/>
+          </navPoint>
+          <navPoint id="np-127" playOrder="127">
+            <navLabel>
+              <text>XXIV. That rational essence by which the universe is governed, is for</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00126"/>
+          </navPoint>
+          <navPoint id="np-128" playOrder="128">
+            <navLabel>
+              <text>XXV. How hast thou carried thyself hitherto towards the Gods? towards</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00127"/>
+          </navPoint>
+          <navPoint id="np-129" playOrder="129">
+            <navLabel>
+              <text>XXVI. Why should imprudent unlearned souls trouble that which is</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00128"/>
+          </navPoint>
+          <navPoint id="np-130" playOrder="130">
+            <navLabel>
+              <text>XXVII. Within a very little while, thou wilt be either ashes, or a</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00129"/>
+          </navPoint>
+          <navPoint id="np-131" playOrder="131">
+            <navLabel>
+              <text>XXVIII. Thou mayest always speed, if thou wilt but make choice of the</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00130"/>
+          </navPoint>
+          <navPoint id="np-132" playOrder="132">
+            <navLabel>
+              <text>XXIX. If this neither be my wicked act, nor an act anyways depending</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00131"/>
+          </navPoint>
+          <navPoint id="np-133" playOrder="133">
+            <navLabel>
+              <text>XXX. Let death surprise rue when it will, and where it will, I may be a</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00132"/>
+          </navPoint>
+          <navPoint id="np-134" playOrder="134">
+            <navLabel>
+              <text>THE SIXTH BOOK</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00133"/>
+          </navPoint>
+          <navPoint id="np-135" playOrder="135">
+            <navLabel>
+              <text>I. The matter itself, of which the universe doth consist, is of itself</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00134"/>
+          </navPoint>
+          <navPoint id="np-136" playOrder="136">
+            <navLabel>
+              <text>II. Be it all one unto thee, whether half frozen or well warm; whether</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00135"/>
+          </navPoint>
+          <navPoint id="np-137" playOrder="137">
+            <navLabel>
+              <text>III. Look in, let not either the proper quality, or the true worth of</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00136"/>
+          </navPoint>
+          <navPoint id="np-138" playOrder="138">
+            <navLabel>
+              <text>IV. All substances come soon to their change, and either they shall</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00137"/>
+          </navPoint>
+          <navPoint id="np-139" playOrder="139">
+            <navLabel>
+              <text>V. The best kind of revenge is, not to become like unto them.</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00138"/>
+          </navPoint>
+          <navPoint id="np-140" playOrder="140">
+            <navLabel>
+              <text>VI. Let this be thy only joy, and thy only comfort, from one sociable</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00139"/>
+          </navPoint>
+          <navPoint id="np-141" playOrder="141">
+            <navLabel>
+              <text>VII. The rational commanding part, as it alone can stir up and turn</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00140"/>
+          </navPoint>
+          <navPoint id="np-142" playOrder="142">
+            <navLabel>
+              <text>VIII. According to the nature of the universe all things particular are</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00141"/>
+          </navPoint>
+          <navPoint id="np-143" playOrder="143">
+            <navLabel>
+              <text>IX. Whensoever by some present hard occurrences thou art constrained to</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00142"/>
+          </navPoint>
+          <navPoint id="np-144" playOrder="144">
+            <navLabel>
+              <text>X. If it were that thou hadst at one time both a stepmother, and</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00143"/>
+          </navPoint>
+          <navPoint id="np-145" playOrder="145">
+            <navLabel>
+              <text>XI. How marvellous useful it is for a man to represent unto himself</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00144"/>
+          </navPoint>
+          <navPoint id="np-146" playOrder="146">
+            <navLabel>
+              <text>XII. See what Crates pronounceth concerning Xenocrates himself.</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00145"/>
+          </navPoint>
+          <navPoint id="np-147" playOrder="147">
+            <navLabel>
+              <text>XIII. Those things which the common sort of people do admire, are most</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00146"/>
+          </navPoint>
+          <navPoint id="np-148" playOrder="148">
+            <navLabel>
+              <text>XIV. Some things hasten to be, and others to be no more. And even</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00147"/>
+          </navPoint>
+          <navPoint id="np-149" playOrder="149">
+            <navLabel>
+              <text>XV. Not vegetative spiration, it is not surely (which plants have) that</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00148"/>
+          </navPoint>
+          <navPoint id="np-150" playOrder="150">
+            <navLabel>
+              <text>XVI. Under, above, and about, are the motions of the elements; but</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00149"/>
+          </navPoint>
+          <navPoint id="np-151" playOrder="151">
+            <navLabel>
+              <text>XVII. Who can choose but wonder at them? They will not speak well of</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00150"/>
+          </navPoint>
+          <navPoint id="np-152" playOrder="152">
+            <navLabel>
+              <text>XVIII. Do not ever conceive anything impossible to man, which by thee</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00151"/>
+          </navPoint>
+          <navPoint id="np-153" playOrder="153">
+            <navLabel>
+              <text>XIX. Suppose that at the palestra somebody hath all to-torn thee with</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00152"/>
+          </navPoint>
+          <navPoint id="np-154" playOrder="154">
+            <navLabel>
+              <text>XX. If anybody shall reprove me, and shall make it apparent unto me,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00153"/>
+          </navPoint>
+          <navPoint id="np-155" playOrder="155">
+            <navLabel>
+              <text>XXI. I for my part will do what belongs unto me; as for other things,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00154"/>
+          </navPoint>
+          <navPoint id="np-156" playOrder="156">
+            <navLabel>
+              <text>XXII. Alexander of Macedon, and he that dressed his mules, when once</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00155"/>
+          </navPoint>
+          <navPoint id="np-157" playOrder="157">
+            <navLabel>
+              <text>XXIII Consider how many different things, whether they concern our</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00156"/>
+          </navPoint>
+          <navPoint id="np-158" playOrder="158">
+            <navLabel>
+              <text>XXIV. if any should put this question unto thee, how this word Antoninus</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00157"/>
+          </navPoint>
+          <navPoint id="np-159" playOrder="159">
+            <navLabel>
+              <text>XXV. Is it not a cruel thing to forbid men to affect those things, which</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00158"/>
+          </navPoint>
+          <navPoint id="np-160" playOrder="160">
+            <navLabel>
+              <text>XXVI. Death is a cessation from the impression of the senses, the</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00159"/>
+          </navPoint>
+          <navPoint id="np-161" playOrder="161">
+            <navLabel>
+              <text>XXVII. If in this kind of life thy body be able to hold out, it is a</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00160"/>
+          </navPoint>
+          <navPoint id="np-162" playOrder="162">
+            <navLabel>
+              <text>XXVIII. Do all things as becometh the disciple of Antoninus Pius.</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00161"/>
+          </navPoint>
+          <navPoint id="np-163" playOrder="163">
+            <navLabel>
+              <text>XXIX. Stir up thy mind, and recall thy wits again from thy natural</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00162"/>
+          </navPoint>
+          <navPoint id="np-164" playOrder="164">
+            <navLabel>
+              <text>XXX. I consist of body and soul. Unto my body all things are</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00163"/>
+          </navPoint>
+          <navPoint id="np-165" playOrder="165">
+            <navLabel>
+              <text>XXXI. As long as the foot doth that which belongeth unto it to do, and</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00164"/>
+          </navPoint>
+          <navPoint id="np-166" playOrder="166">
+            <navLabel>
+              <text>XXXII. Dost thou not see, how even those that profess mechanic arts,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00165"/>
+          </navPoint>
+          <navPoint id="np-167" playOrder="167">
+            <navLabel>
+              <text>XXXIII. Asia, Europe; what are they, but as corners of the whole world;</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00166"/>
+          </navPoint>
+          <navPoint id="np-168" playOrder="168">
+            <navLabel>
+              <text>XXXIV He that seeth the things that are now, hath Seen all that either</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-6.htm.html#pgepubid00167"/>
+          </navPoint>
+          <navPoint id="np-169" playOrder="169">
+            <navLabel>
+              <text>XXXV. Fit and accommodate thyself to that estate and to those</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00168"/>
+          </navPoint>
+          <navPoint id="np-170" playOrder="170">
+            <navLabel>
+              <text>XXXVI. What things soever are not within the proper power and</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00169"/>
+          </navPoint>
+          <navPoint id="np-171" playOrder="171">
+            <navLabel>
+              <text>XXXVII. We all work to one effect, some willingly, and with a rational</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00170"/>
+          </navPoint>
+          <navPoint id="np-172" playOrder="172">
+            <navLabel>
+              <text>XXXVIII. Doth either the sun take upon him to do that which belongs to</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00171"/>
+          </navPoint>
+          <navPoint id="np-173" playOrder="173">
+            <navLabel>
+              <text>XXXIX. If so be that the Gods have deliberated in particular of those</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00172"/>
+          </navPoint>
+          <navPoint id="np-174" playOrder="174">
+            <navLabel>
+              <text>XL. Whatsoever in any kind doth happen to any one, is expedient to the</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00173"/>
+          </navPoint>
+          <navPoint id="np-175" playOrder="175">
+            <navLabel>
+              <text>XLI. As the ordinary shows of the theatre and of other such places,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00174"/>
+          </navPoint>
+          <navPoint id="np-176" playOrder="176">
+            <navLabel>
+              <text>XLII. Let the several deaths of men of all sorts, and of all sorts of</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00175"/>
+          </navPoint>
+          <navPoint id="np-177" playOrder="177">
+            <navLabel>
+              <text>XLIII. When thou wilt comfort and cheer thyself, call to mind the</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00176"/>
+          </navPoint>
+          <navPoint id="np-178" playOrder="178">
+            <navLabel>
+              <text>XLIV. Dost thou grieve that thou dost weigh but so many pounds, and not</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00177"/>
+          </navPoint>
+          <navPoint id="np-179" playOrder="179">
+            <navLabel>
+              <text>XLV. Let us do our best endeavours to persuade them; but however, if</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00178"/>
+          </navPoint>
+          <navPoint id="np-180" playOrder="180">
+            <navLabel>
+              <text>XLVI. The ambitious supposeth another man's act, praise and applause, to</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00179"/>
+          </navPoint>
+          <navPoint id="np-181" playOrder="181">
+            <navLabel>
+              <text>XLVII. It is in thy power absolutely to exclude all manner of conceit</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00180"/>
+          </navPoint>
+          <navPoint id="np-182" playOrder="182">
+            <navLabel>
+              <text>XLVIII. Use thyself when any man speaks unto thee, so to hearken unto</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00181"/>
+          </navPoint>
+          <navPoint id="np-183" playOrder="183">
+            <navLabel>
+              <text>XLIX. That which is not good for the bee-hive, cannot be good for the</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00182"/>
+          </navPoint>
+          <navPoint id="np-184" playOrder="184">
+            <navLabel>
+              <text>L. Will either passengers, or patients, find fault and complain, either</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00183"/>
+          </navPoint>
+          <navPoint id="np-185" playOrder="185">
+            <navLabel>
+              <text>LI. How many of them who came into the world at the same time when I</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00184"/>
+          </navPoint>
+          <navPoint id="np-186" playOrder="186">
+            <navLabel>
+              <text>LII. To them that are sick of the jaundice, honey seems bitter; and to</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00185"/>
+          </navPoint>
+          <navPoint id="np-187" playOrder="187">
+            <navLabel>
+              <text>LIII. No man can hinder thee to live as thy nature doth require. Nothing</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00186"/>
+          </navPoint>
+          <navPoint id="np-188" playOrder="188">
+            <navLabel>
+              <text>LIV. What manner of men they be whom they seek to please, and what to</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00187"/>
+          </navPoint>
+          <navPoint id="np-189" playOrder="189">
+            <navLabel>
+              <text>THE SEVENTH BOOK</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00188"/>
+          </navPoint>
+          <navPoint id="np-190" playOrder="190">
+            <navLabel>
+              <text>I. What is wickedness? It is that which many time and often thou hast</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00189"/>
+          </navPoint>
+          <navPoint id="np-191" playOrder="191">
+            <navLabel>
+              <text>II. What fear is there that thy dogmata, or philosophical resolutions</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00190"/>
+          </navPoint>
+          <navPoint id="np-192" playOrder="192">
+            <navLabel>
+              <text>III. That which most men would think themselves most happy for, and</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00191"/>
+          </navPoint>
+          <navPoint id="np-193" playOrder="193">
+            <navLabel>
+              <text>IV. Word after word, every one by itself, must the things that are</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00192"/>
+          </navPoint>
+          <navPoint id="np-194" playOrder="194">
+            <navLabel>
+              <text>V. Is my reason, and understanding sufficient for this, or no? If it be</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00193"/>
+          </navPoint>
+          <navPoint id="np-195" playOrder="195">
+            <navLabel>
+              <text>VI. Let not things future trouble thee. For if necessity so require that</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00194"/>
+          </navPoint>
+          <navPoint id="np-196" playOrder="196">
+            <navLabel>
+              <text>VII. Whatsoever is material, doth soon vanish away into the common</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00195"/>
+          </navPoint>
+          <navPoint id="np-197" playOrder="197">
+            <navLabel>
+              <text>VIII. To a reasonable creature, the same action is both according</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00196"/>
+          </navPoint>
+          <navPoint id="np-198" playOrder="198">
+            <navLabel>
+              <text>IX. Straight of itself, not made straight.</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00197"/>
+          </navPoint>
+          <navPoint id="np-199" playOrder="199">
+            <navLabel>
+              <text>X. As several members in one body united, so are reasonable creatures</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00198"/>
+          </navPoint>
+          <navPoint id="np-200" playOrder="200">
+            <navLabel>
+              <text>XI. Of things that are external, happen what will to that which can</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00199"/>
+          </navPoint>
+          <navPoint id="np-201" playOrder="201">
+            <navLabel>
+              <text>XII. Whatsoever any man either doth or saith, thou must be good; not for</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00200"/>
+          </navPoint>
+          <navPoint id="np-202" playOrder="202">
+            <navLabel>
+              <text>XIII. This may ever be my comfort and security: my understanding, that</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00201"/>
+          </navPoint>
+          <navPoint id="np-203" playOrder="203">
+            <navLabel>
+              <text>XIV. What is rv&amp;nfLovia, or happiness: but a7~o~ &amp;d~wv, or, a good</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00202"/>
+          </navPoint>
+          <navPoint id="np-204" playOrder="204">
+            <navLabel>
+              <text>XV. Is any man so foolish as to fear change, to which all things that</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00203"/>
+          </navPoint>
+          <navPoint id="np-205" playOrder="205">
+            <navLabel>
+              <text>XVI. Through the substance of the universe, as through a torrent pass</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00204"/>
+          </navPoint>
+          <navPoint id="np-206" playOrder="206">
+            <navLabel>
+              <text>XVII. The nature of the universe, of the common substance of all things</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00205"/>
+          </navPoint>
+          <navPoint id="np-207" playOrder="207">
+            <navLabel>
+              <text>XVIII. An angry countenance is much against nature, and it is oftentimes</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00206"/>
+          </navPoint>
+          <navPoint id="np-208" playOrder="208">
+            <navLabel>
+              <text>XIX. Whensoever any man doth trespass against other, presently consider</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00207"/>
+          </navPoint>
+          <navPoint id="np-209" playOrder="209">
+            <navLabel>
+              <text>XX. Fancy not to thyself things future, as though they were present</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00208"/>
+          </navPoint>
+          <navPoint id="np-210" playOrder="210">
+            <navLabel>
+              <text>XXI. Wipe off all opinion stay the force and violence of unreasonable</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00209"/>
+          </navPoint>
+          <navPoint id="np-211" playOrder="211">
+            <navLabel>
+              <text>XXII. All things (saith he) are by certain order and appointment. And</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00210"/>
+          </navPoint>
+          <navPoint id="np-212" playOrder="212">
+            <navLabel>
+              <text>XXIII. Out of Plato. 'He then whose mind is endowed with true</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00211"/>
+          </navPoint>
+          <navPoint id="np-213" playOrder="213">
+            <navLabel>
+              <text>XXIV. Out of Antisthenes. 'It is a princely thing to do well, and to be</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00212"/>
+          </navPoint>
+          <navPoint id="np-214" playOrder="214">
+            <navLabel>
+              <text>XXV. Out of several poets and comics. 'It will but little avail thee,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00213"/>
+          </navPoint>
+          <navPoint id="np-215" playOrder="215">
+            <navLabel>
+              <text>XXVI. Out of Plato. 'My answer, full of justice and equity, should be</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00214"/>
+          </navPoint>
+          <navPoint id="np-216" playOrder="216">
+            <navLabel>
+              <text>XXVII. To look back upon things of former ages, as upon the manifold</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00215"/>
+          </navPoint>
+          <navPoint id="np-217" playOrder="217">
+            <navLabel>
+              <text>XXVIII. He hath a stronger body, and is a better wrestler than I. What</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00216"/>
+          </navPoint>
+          <navPoint id="np-218" playOrder="218">
+            <navLabel>
+              <text>XXIX. Where the matter may be effected agreeably to that reason, which</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00217"/>
+          </navPoint>
+          <navPoint id="np-219" playOrder="219">
+            <navLabel>
+              <text>XXX. Look not about upon other men's minds and understandings; but look</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00218"/>
+          </navPoint>
+          <navPoint id="np-220" playOrder="220">
+            <navLabel>
+              <text>XXXI. As one who had lived, and were now to die by right, whatsoever is</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00219"/>
+          </navPoint>
+          <navPoint id="np-221" playOrder="221">
+            <navLabel>
+              <text>XXXII. Thou must use thyself also to keep thy body fixed and steady;</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-7.htm.html#pgepubid00220"/>
+          </navPoint>
+          <navPoint id="np-222" playOrder="222">
+            <navLabel>
+              <text>XXXIII. The art of true living in this world is more like a wrestler's,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00221"/>
+          </navPoint>
+          <navPoint id="np-223" playOrder="223">
+            <navLabel>
+              <text>XXXIV. Thou must continually ponder and consider with thyself, what</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00222"/>
+          </navPoint>
+          <navPoint id="np-224" playOrder="224">
+            <navLabel>
+              <text>XXXV. What pain soever thou art in, let this presently come to thy mind,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00223"/>
+          </navPoint>
+          <navPoint id="np-225" playOrder="225">
+            <navLabel>
+              <text>XXXVI. Take heed lest at any time thou stand so affected, though towards</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00224"/>
+          </navPoint>
+          <navPoint id="np-226" playOrder="226">
+            <navLabel>
+              <text>XXXVII. How know we whether Socrates were so eminent indeed, and of so</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00225"/>
+          </navPoint>
+          <navPoint id="np-227" playOrder="227">
+            <navLabel>
+              <text>XXXVIII. For it is a thing very possible, that a man should be a very</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00226"/>
+          </navPoint>
+          <navPoint id="np-228" playOrder="228">
+            <navLabel>
+              <text>XXXIX. Free from all compulsion in all cheerfulness and alacrity thou</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00227"/>
+          </navPoint>
+          <navPoint id="np-229" playOrder="229">
+            <navLabel>
+              <text>XL. Then hath a man attained to the estate of perfection in his life and</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00228"/>
+          </navPoint>
+          <navPoint id="np-230" playOrder="230">
+            <navLabel>
+              <text>XLI. Can the Gods, who are immortal, for the continuance of so many ages</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00229"/>
+          </navPoint>
+          <navPoint id="np-231" playOrder="231">
+            <navLabel>
+              <text>XLII. What object soever, our reasonable and sociable faculty doth meet</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00230"/>
+          </navPoint>
+          <navPoint id="np-232" playOrder="232">
+            <navLabel>
+              <text>XLIII. When thou hast done well, and another is benefited by thy action,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00231"/>
+          </navPoint>
+          <navPoint id="np-233" playOrder="233">
+            <navLabel>
+              <text>XLIV. The nature of the universe did once certainly before it was</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00232"/>
+          </navPoint>
+          <navPoint id="np-234" playOrder="234">
+            <navLabel>
+              <text>THE EIGHTH BOOK</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00233"/>
+          </navPoint>
+          <navPoint id="np-235" playOrder="235">
+            <navLabel>
+              <text>I. This also, among other things, may serve to keep thee from vainglory;</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00234"/>
+          </navPoint>
+          <navPoint id="np-236" playOrder="236">
+            <navLabel>
+              <text>II. Upon every action that thou art about, put this question to thyself;</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00235"/>
+          </navPoint>
+          <navPoint id="np-237" playOrder="237">
+            <navLabel>
+              <text>III. Alexander, Caius, Pompeius; what are these to Diogenes, Heraclitus,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00236"/>
+          </navPoint>
+          <navPoint id="np-238" playOrder="238">
+            <navLabel>
+              <text>IV. What they have done, they will still do, although thou shouldst hang</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00237"/>
+          </navPoint>
+          <navPoint id="np-239" playOrder="239">
+            <navLabel>
+              <text>V. That which the nature of the universe doth busy herself about, is;</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00238"/>
+          </navPoint>
+          <navPoint id="np-240" playOrder="240">
+            <navLabel>
+              <text>VI. Every particular nature hath content, when in its own proper course</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00239"/>
+          </navPoint>
+          <navPoint id="np-241" playOrder="241">
+            <navLabel>
+              <text>VII. Thou hast no time nor opportunity to read. What then? Hast thou</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00240"/>
+          </navPoint>
+          <navPoint id="np-242" playOrder="242">
+            <navLabel>
+              <text>VIII. Forbear henceforth to complain of the trouble of a courtly life,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00241"/>
+          </navPoint>
+          <navPoint id="np-243" playOrder="243">
+            <navLabel>
+              <text>IX. Repentance is an inward and self-reprehension for the neglect or</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00242"/>
+          </navPoint>
+          <navPoint id="np-244" playOrder="244">
+            <navLabel>
+              <text>X. This, what is it in itself, and by itself, according to its proper</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00243"/>
+          </navPoint>
+          <navPoint id="np-245" playOrder="245">
+            <navLabel>
+              <text>XI. When thou art hard to be stirred up and awaked out of thy sleep,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00244"/>
+          </navPoint>
+          <navPoint id="np-246" playOrder="246">
+            <navLabel>
+              <text>XII. As every fancy and imagination presents itself unto thee, consider</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00245"/>
+          </navPoint>
+          <navPoint id="np-247" playOrder="247">
+            <navLabel>
+              <text>XIII. At thy first encounter with any one, say presently to thyself:</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00246"/>
+          </navPoint>
+          <navPoint id="np-248" playOrder="248">
+            <navLabel>
+              <text>XIV. Remember, that to change thy mind upon occasion, and to follow him</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00247"/>
+          </navPoint>
+          <navPoint id="np-249" playOrder="249">
+            <navLabel>
+              <text>XV. If it were thine act and in thine own power, wouldest thou do</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00248"/>
+          </navPoint>
+          <navPoint id="np-250" playOrder="250">
+            <navLabel>
+              <text>XVI. Whatsoever dieth and falleth, however and wheresoever it die</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00249"/>
+          </navPoint>
+          <navPoint id="np-251" playOrder="251">
+            <navLabel>
+              <text>XVII. Whatsoever is, was made for something: as a horse, a vine. Why</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00250"/>
+          </navPoint>
+          <navPoint id="np-252" playOrder="252">
+            <navLabel>
+              <text>XVIII. Nature hath its end as well in the end and final consummation of</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00251"/>
+          </navPoint>
+          <navPoint id="np-253" playOrder="253">
+            <navLabel>
+              <text>XIX. As one that tosseth up a ball. And what is a ball the better, if</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00252"/>
+          </navPoint>
+          <navPoint id="np-254" playOrder="254">
+            <navLabel>
+              <text>XX. That which must be the subject of thy consideration, is either the</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00253"/>
+          </navPoint>
+          <navPoint id="np-255" playOrder="255">
+            <navLabel>
+              <text>XXI. Most justly have these things happened unto thee: why dost not</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00254"/>
+          </navPoint>
+          <navPoint id="np-256" playOrder="256">
+            <navLabel>
+              <text>XXII. Shall I do it? I will; so the end of my action be to do good unto</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00255"/>
+          </navPoint>
+          <navPoint id="np-257" playOrder="257">
+            <navLabel>
+              <text>XXIII. By one action judge of the rest: this bathing which usually takes</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00256"/>
+          </navPoint>
+          <navPoint id="np-258" playOrder="258">
+            <navLabel>
+              <text>XXIV. Lucilla buried Verus; then was Lucilla herself buried by others.</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00257"/>
+          </navPoint>
+          <navPoint id="np-259" playOrder="259">
+            <navLabel>
+              <text>XXV. The true joy of a man, is to do that which properly belongs unto a</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00258"/>
+          </navPoint>
+          <navPoint id="np-260" playOrder="260">
+            <navLabel>
+              <text>XXVI. If pain be an evil, either it is in regard of the body; (and that</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00259"/>
+          </navPoint>
+          <navPoint id="np-261" playOrder="261">
+            <navLabel>
+              <text>XXVII. Wipe off all idle fancies, and say unto thyself incessantly; Now</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00260"/>
+          </navPoint>
+          <navPoint id="np-262" playOrder="262">
+            <navLabel>
+              <text>XXVIII. Whether thou speak in the Senate or whether thou speak to any</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00261"/>
+          </navPoint>
+          <navPoint id="np-263" playOrder="263">
+            <navLabel>
+              <text>XXIX. Augustus his court; his wife, his daughter, his nephews, his</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00262"/>
+          </navPoint>
+          <navPoint id="np-264" playOrder="264">
+            <navLabel>
+              <text>XXX. Contract thy whole life to the measure and proportion of one single</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00263"/>
+          </navPoint>
+          <navPoint id="np-265" playOrder="265">
+            <navLabel>
+              <text>XXXI. Receive temporal blessings without ostentation, when they are sent</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00264"/>
+          </navPoint>
+          <navPoint id="np-266" playOrder="266">
+            <navLabel>
+              <text>XXXII. If ever thou sawest either a hand, or a foot, or a head lying by</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00265"/>
+          </navPoint>
+          <navPoint id="np-267" playOrder="267">
+            <navLabel>
+              <text>XXXIII. As almost all her other faculties and properties the nature of</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00266"/>
+          </navPoint>
+          <navPoint id="np-268" playOrder="268">
+            <navLabel>
+              <text>XXXIV. Let not the general representation unto thyself of the</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00267"/>
+          </navPoint>
+          <navPoint id="np-269" playOrder="269">
+            <navLabel>
+              <text>XXXV. What? are either Panthea or Pergamus abiding to this day by their</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00268"/>
+          </navPoint>
+          <navPoint id="np-270" playOrder="270">
+            <navLabel>
+              <text>XXXVI. If thou beest quick-sighted, be so in matter of judgment, and</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00269"/>
+          </navPoint>
+          <navPoint id="np-271" playOrder="271">
+            <navLabel>
+              <text>XXXVII. In the whole constitution of man, I see not any virtue contrary</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00270"/>
+          </navPoint>
+          <navPoint id="np-272" playOrder="272">
+            <navLabel>
+              <text>XXXVIII. If thou canst but withdraw conceit and opinion concerning that</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00271"/>
+          </navPoint>
+          <navPoint id="np-273" playOrder="273">
+            <navLabel>
+              <text>XXXIX. That which is a hindrance of the senses, is an evil to the</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00272"/>
+          </navPoint>
+          <navPoint id="np-274" playOrder="274">
+            <navLabel>
+              <text>XL. If once round and solid, there is no fear that ever it will change.</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00273"/>
+          </navPoint>
+          <navPoint id="np-275" playOrder="275">
+            <navLabel>
+              <text>XLI. Why should I grieve myself; who never did willingly grieve any</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00274"/>
+          </navPoint>
+          <navPoint id="np-276" playOrder="276">
+            <navLabel>
+              <text>XLII. This time that is now present, bestow thou upon thyself. They that</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00275"/>
+          </navPoint>
+          <navPoint id="np-277" playOrder="277">
+            <navLabel>
+              <text>XLIII. Take me and throw me where thou wilt: I am indifferent. For there</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00276"/>
+          </navPoint>
+          <navPoint id="np-278" playOrder="278">
+            <navLabel>
+              <text>XLIV. Is this then a thing of that worth, that for it my soul should</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00277"/>
+          </navPoint>
+          <navPoint id="np-279" playOrder="279">
+            <navLabel>
+              <text>XLV. Nothing can happen unto thee, which is not incidental unto thee, as</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00278"/>
+          </navPoint>
+          <navPoint id="np-280" playOrder="280">
+            <navLabel>
+              <text>XLVI. Remember that thy mind is of that nature as that it becometh</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00279"/>
+          </navPoint>
+          <navPoint id="np-281" playOrder="281">
+            <navLabel>
+              <text>XLVII. Keep thyself to the first bare and naked apprehensions of things,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00280"/>
+          </navPoint>
+          <navPoint id="np-282" playOrder="282">
+            <navLabel>
+              <text>XLVIII. Is the cucumber bitter? set it away. Brambles are in the way?</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-8.htm.html#pgepubid00281"/>
+          </navPoint>
+          <navPoint id="np-283" playOrder="283">
+            <navLabel>
+              <text>XLIX. Not to be slack and negligent; or loose, and wanton in thy</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00282"/>
+          </navPoint>
+          <navPoint id="np-284" playOrder="284">
+            <navLabel>
+              <text>L. 'They kill me, they cut my flesh; they persecute my person with</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00283"/>
+          </navPoint>
+          <navPoint id="np-285" playOrder="285">
+            <navLabel>
+              <text>LI. He that knoweth not what the world is, knoweth not where he himself</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00284"/>
+          </navPoint>
+          <navPoint id="np-286" playOrder="286">
+            <navLabel>
+              <text>LII. Not only now henceforth to have a common breath, or to hold</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00285"/>
+          </navPoint>
+          <navPoint id="np-287" playOrder="287">
+            <navLabel>
+              <text>LIII. Wickedness in general doth not hurt the world. Particular</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00286"/>
+          </navPoint>
+          <navPoint id="np-288" playOrder="288">
+            <navLabel>
+              <text>LIV. The sun seemeth to be shed abroad. And indeed it is diffused but</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00287"/>
+          </navPoint>
+          <navPoint id="np-289" playOrder="289">
+            <navLabel>
+              <text>LV. He that feareth death, either feareth that he shall have no sense at</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00288"/>
+          </navPoint>
+          <navPoint id="np-290" playOrder="290">
+            <navLabel>
+              <text>LVI. All men are made one for another: either then teach them better, or</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00289"/>
+          </navPoint>
+          <navPoint id="np-291" playOrder="291">
+            <navLabel>
+              <text>LVII. The motion of the mind is not as the motion of a dart. For</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00290"/>
+          </navPoint>
+          <navPoint id="np-292" playOrder="292">
+            <navLabel>
+              <text>LVIII. To pierce and penetrate into the estate of every one's</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00291"/>
+          </navPoint>
+          <navPoint id="np-293" playOrder="293">
+            <navLabel>
+              <text>THE NINTH BOOK</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00292"/>
+          </navPoint>
+          <navPoint id="np-294" playOrder="294">
+            <navLabel>
+              <text>I. He that is unjust, is also impious. For the nature of the universe,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00293"/>
+          </navPoint>
+          <navPoint id="np-295" playOrder="295">
+            <navLabel>
+              <text>II. It were indeed more happy and comfortable, for a man to depart out</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00294"/>
+          </navPoint>
+          <navPoint id="np-296" playOrder="296">
+            <navLabel>
+              <text>III. Thou must not in matter of death carry thyself scornfully, but as</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00295"/>
+          </navPoint>
+          <navPoint id="np-297" playOrder="297">
+            <navLabel>
+              <text>IV. He that sinneth, sinneth unto himself. He that is unjust, hurts</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00296"/>
+          </navPoint>
+          <navPoint id="np-298" playOrder="298">
+            <navLabel>
+              <text>V. If my present apprehension of the object be right, and my present</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00297"/>
+          </navPoint>
+          <navPoint id="np-299" playOrder="299">
+            <navLabel>
+              <text>VI. To wipe away fancy, to use deliberation, to quench concupiscence, to</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00298"/>
+          </navPoint>
+          <navPoint id="np-300" playOrder="300">
+            <navLabel>
+              <text>VII. Of all unreasonable creatures, there is but one unreasonable soul;</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00299"/>
+          </navPoint>
+          <navPoint id="np-301" playOrder="301">
+            <navLabel>
+              <text>VIII. Man, God, the world, every one in their kind, bear some fruits.</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00300"/>
+          </navPoint>
+          <navPoint id="np-302" playOrder="302">
+            <navLabel>
+              <text>IX. Either teach them better if it be in thy power; or if it be not,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00301"/>
+          </navPoint>
+          <navPoint id="np-303" playOrder="303">
+            <navLabel>
+              <text>X. Labour not as one to whom it is appointed to be wretched, nor as one</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00302"/>
+          </navPoint>
+          <navPoint id="np-304" playOrder="304">
+            <navLabel>
+              <text>XI. This day I did come out of all my trouble. Nay I have cast out all</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00303"/>
+          </navPoint>
+          <navPoint id="np-305" playOrder="305">
+            <navLabel>
+              <text>XII. All those things, for matter of experience are usual and ordinary;</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00304"/>
+          </navPoint>
+          <navPoint id="np-306" playOrder="306">
+            <navLabel>
+              <text>XIII. The things themselves that affect us, they stand without doors,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00305"/>
+          </navPoint>
+          <navPoint id="np-307" playOrder="307">
+            <navLabel>
+              <text>XIV. As virtue and wickedness consist not in passion, but in action; so</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00306"/>
+          </navPoint>
+          <navPoint id="np-308" playOrder="308">
+            <navLabel>
+              <text>XV. To the stone that is cast up, when it comes down it is no hurt unto</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00307"/>
+          </navPoint>
+          <navPoint id="np-309" playOrder="309">
+            <navLabel>
+              <text>XVI. Sift their minds and understandings, and behold what men they be,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00308"/>
+          </navPoint>
+          <navPoint id="np-310" playOrder="310">
+            <navLabel>
+              <text>XVII. All things that are in the world, are always in the estate</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00309"/>
+          </navPoint>
+          <navPoint id="np-311" playOrder="311">
+            <navLabel>
+              <text>XVIII. it is not thine, but another man's sin. Why should it trouble</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00310"/>
+          </navPoint>
+          <navPoint id="np-312" playOrder="312">
+            <navLabel>
+              <text>XIX. Of an operation and of a purpose there is an ending, or of an</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00311"/>
+          </navPoint>
+          <navPoint id="np-313" playOrder="313">
+            <navLabel>
+              <text>XX. As occasion shall require, either to thine own understanding, or to</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00312"/>
+          </navPoint>
+          <navPoint id="np-314" playOrder="314">
+            <navLabel>
+              <text>XXI. As thou thyself, whoever thou art, were made for the perfection and</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00313"/>
+          </navPoint>
+          <navPoint id="np-315" playOrder="315">
+            <navLabel>
+              <text>XXII. Children's anger, mere babels; wretched souls bearing up dead</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00314"/>
+          </navPoint>
+          <navPoint id="np-316" playOrder="316">
+            <navLabel>
+              <text>XXIII. Go to the quality of the cause from which the effect doth</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00315"/>
+          </navPoint>
+          <navPoint id="np-317" playOrder="317">
+            <navLabel>
+              <text>XXIV. Infinite are the troubles and miseries, that thou hast already</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00316"/>
+          </navPoint>
+          <navPoint id="np-318" playOrder="318">
+            <navLabel>
+              <text>XXV. When any shall either impeach thee with false accusations, or</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00317"/>
+          </navPoint>
+          <navPoint id="np-319" playOrder="319">
+            <navLabel>
+              <text>XXVI. Up and down, from one age to another, go the ordinary things of</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00318"/>
+          </navPoint>
+          <navPoint id="np-320" playOrder="320">
+            <navLabel>
+              <text>XXVII. Within a while the earth shall cover us all, and then she herself</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00319"/>
+          </navPoint>
+          <navPoint id="np-321" playOrder="321">
+            <navLabel>
+              <text>XXVIII. And these your professed politicians, the only true practical</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00320"/>
+          </navPoint>
+          <navPoint id="np-322" playOrder="322">
+            <navLabel>
+              <text>XXIX. From some high place as it were to look down, and to behold</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00321"/>
+          </navPoint>
+          <navPoint id="np-323" playOrder="323">
+            <navLabel>
+              <text>XXX. Many of those things that trouble and straiten thee, it is in thy</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00322"/>
+          </navPoint>
+          <navPoint id="np-324" playOrder="324">
+            <navLabel>
+              <text>XXXI. To comprehend the whole world together in thy mind, and the whole</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00323"/>
+          </navPoint>
+          <navPoint id="np-325" playOrder="325">
+            <navLabel>
+              <text>XXXII. What are their minds and understandings; and what the things that</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00324"/>
+          </navPoint>
+          <navPoint id="np-326" playOrder="326">
+            <navLabel>
+              <text>XXXIII. Loss and corruption, is in very deed nothing else but change and</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00325"/>
+          </navPoint>
+          <navPoint id="np-327" playOrder="327">
+            <navLabel>
+              <text>XXXIV. How base and putrid, every common matter is! Water, dust, and</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00326"/>
+          </navPoint>
+          <navPoint id="np-328" playOrder="328">
+            <navLabel>
+              <text>XXXV. Will this querulousness, this murmuring, this complaining and</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00327"/>
+          </navPoint>
+          <navPoint id="np-329" playOrder="329">
+            <navLabel>
+              <text>XXXVI. It is all one to see these things for a hundred of years together</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00328"/>
+          </navPoint>
+          <navPoint id="np-330" playOrder="330">
+            <navLabel>
+              <text>XXXVII. If he have sinned, his is the harm, not mine. But perchance he</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00329"/>
+          </navPoint>
+          <navPoint id="np-331" playOrder="331">
+            <navLabel>
+              <text>XXXVIII. Either all things by the providence of reason happen unto every</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00330"/>
+          </navPoint>
+          <navPoint id="np-332" playOrder="332">
+            <navLabel>
+              <text>XXXIX. Sayest thou unto that rational part, Thou art dead; corruption</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00331"/>
+          </navPoint>
+          <navPoint id="np-333" playOrder="333">
+            <navLabel>
+              <text>XL. Either the Gods can do nothing for us at all, or they can still and</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00332"/>
+          </navPoint>
+          <navPoint id="np-334" playOrder="334">
+            <navLabel>
+              <text>XLI. 'In my sickness' (saith Epicurus of himself:) 'my discourses were</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00333"/>
+          </navPoint>
+          <navPoint id="np-335" playOrder="335">
+            <navLabel>
+              <text>XLII. It is common to all trades and professions to mind and intend that</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00334"/>
+          </navPoint>
+          <navPoint id="np-336" playOrder="336">
+            <navLabel>
+              <text>XLIII. When at any time thou art offended with any one's impudency, put</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00335"/>
+          </navPoint>
+          <navPoint id="np-337" playOrder="337">
+            <navLabel>
+              <text>THE TENTH BOOK</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00336"/>
+          </navPoint>
+          <navPoint id="np-338" playOrder="338">
+            <navLabel>
+              <text>I. O my soul, the time I trust will be, when thou shalt be good, simple,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-9.htm.html#pgepubid00337"/>
+          </navPoint>
+          <navPoint id="np-339" playOrder="339">
+            <navLabel>
+              <text>II. As one who is altogether governed by nature, let it be thy care to</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00338"/>
+          </navPoint>
+          <navPoint id="np-340" playOrder="340">
+            <navLabel>
+              <text>III. Whatsoever doth happen unto thee, thou art naturally by thy natural</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00339"/>
+          </navPoint>
+          <navPoint id="np-341" playOrder="341">
+            <navLabel>
+              <text>IV. Him that offends, to teach with love and meek ness, and to show him</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00340"/>
+          </navPoint>
+          <navPoint id="np-342" playOrder="342">
+            <navLabel>
+              <text>V. Whatsoever it be that happens unto thee, it is that which from all</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00341"/>
+          </navPoint>
+          <navPoint id="np-343" playOrder="343">
+            <navLabel>
+              <text>VI. Either with Epicurus, we must fondly imagine the atoms to be the</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00342"/>
+          </navPoint>
+          <navPoint id="np-344" playOrder="344">
+            <navLabel>
+              <text>VII. All parts of the world, (all things I mean that are contained</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00343"/>
+          </navPoint>
+          <navPoint id="np-345" playOrder="345">
+            <navLabel>
+              <text>VIII. Now that thou hast taken these names upon thee of good, modest,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00344"/>
+          </navPoint>
+          <navPoint id="np-346" playOrder="346">
+            <navLabel>
+              <text>IX. Toys and fooleries at home, wars abroad: sometimes terror, sometimes</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00345"/>
+          </navPoint>
+          <navPoint id="np-347" playOrder="347">
+            <navLabel>
+              <text>X. As the spider, when it hath caught the fly that it hunted after, is</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00346"/>
+          </navPoint>
+          <navPoint id="np-348" playOrder="348">
+            <navLabel>
+              <text>XI. To find out, and set to thyself some certain way and method of</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00347"/>
+          </navPoint>
+          <navPoint id="np-349" playOrder="349">
+            <navLabel>
+              <text>XII. He hath got loose from the bonds of his body, and perceiving that</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00348"/>
+          </navPoint>
+          <navPoint id="np-350" playOrder="350">
+            <navLabel>
+              <text>XIII. What use is there of suspicion at all? or, why should thoughts</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00349"/>
+          </navPoint>
+          <navPoint id="np-351" playOrder="351">
+            <navLabel>
+              <text>XIV. What is that that is slow, and yet quick? merry, and yet grave? He</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00350"/>
+          </navPoint>
+          <navPoint id="np-352" playOrder="352">
+            <navLabel>
+              <text>XV. In the morning as soon as thou art awaked, when thy judgment, before</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00351"/>
+          </navPoint>
+          <navPoint id="np-353" playOrder="353">
+            <navLabel>
+              <text>XVI. Give what thou wilt, and take away what thou wilt, saith he that is</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00352"/>
+          </navPoint>
+          <navPoint id="np-354" playOrder="354">
+            <navLabel>
+              <text>XVII. So live as indifferent to the world and all worldly objects, as</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00353"/>
+          </navPoint>
+          <navPoint id="np-355" playOrder="355">
+            <navLabel>
+              <text>XVIII. Make it not any longer a matter of dispute or discourse, what are</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00354"/>
+          </navPoint>
+          <navPoint id="np-356" playOrder="356">
+            <navLabel>
+              <text>XIX. Ever to represent unto thyself; and to set before thee, both the</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00355"/>
+          </navPoint>
+          <navPoint id="np-357" playOrder="357">
+            <navLabel>
+              <text>XX. Consider them through all actions and occupations, of their lives:</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00356"/>
+          </navPoint>
+          <navPoint id="np-358" playOrder="358">
+            <navLabel>
+              <text>XXI. That is best for every one, that the common nature of all doth send</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00357"/>
+          </navPoint>
+          <navPoint id="np-359" playOrder="359">
+            <navLabel>
+              <text>XXII. The earth, saith the poet, doth often long after the rain. So is</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00358"/>
+          </navPoint>
+          <navPoint id="np-360" playOrder="360">
+            <navLabel>
+              <text>XXIII. Either thou dost Continue in this kind of life and that is it,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00359"/>
+          </navPoint>
+          <navPoint id="np-361" playOrder="361">
+            <navLabel>
+              <text>XXIV Let it always appear and be manifest unto thee that solitariness,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00360"/>
+          </navPoint>
+          <navPoint id="np-362" playOrder="362">
+            <navLabel>
+              <text>XXV. He that runs away from his master is a fugitive. But the law is</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00361"/>
+          </navPoint>
+          <navPoint id="np-363" playOrder="363">
+            <navLabel>
+              <text>XXVI. From man is the seed, that once cast into the womb man hath no</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00362"/>
+          </navPoint>
+          <navPoint id="np-364" playOrder="364">
+            <navLabel>
+              <text>XXVII. Ever to mind and consider with thyself; how all things that now</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00363"/>
+          </navPoint>
+          <navPoint id="np-365" playOrder="365">
+            <navLabel>
+              <text>XXVIII. As a pig that cries and flings when his throat is cut, fancy to</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00364"/>
+          </navPoint>
+          <navPoint id="np-366" playOrder="366">
+            <navLabel>
+              <text>XXIX. Whatsoever it is that thou goest about, consider of it by thyself,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00365"/>
+          </navPoint>
+          <navPoint id="np-367" playOrder="367">
+            <navLabel>
+              <text>XXX. When thou art offended with any man's transgression, presently</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00366"/>
+          </navPoint>
+          <navPoint id="np-368" playOrder="368">
+            <navLabel>
+              <text>XXXI. When thou seest Satyro, think of Socraticus and Eutyches, or</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00367"/>
+          </navPoint>
+          <navPoint id="np-369" playOrder="369">
+            <navLabel>
+              <text>XXXII. What a subject, and what a course of life is it, that thou doest</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00368"/>
+          </navPoint>
+          <navPoint id="np-370" playOrder="370">
+            <navLabel>
+              <text>XXXIII. Let it not be in any man's power, to say truly of thee, that</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00369"/>
+          </navPoint>
+          <navPoint id="np-371" playOrder="371">
+            <navLabel>
+              <text>XXXIV. As he that is bitten by a mad dog, is afraid of everything almost</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00370"/>
+          </navPoint>
+          <navPoint id="np-372" playOrder="372">
+            <navLabel>
+              <text>XXXV. A good eye must be good to see whatsoever is to be seen, and not</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00371"/>
+          </navPoint>
+          <navPoint id="np-373" playOrder="373">
+            <navLabel>
+              <text>XXXVI. There is not any man that is so happy in his death, but that some</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00372"/>
+          </navPoint>
+          <navPoint id="np-374" playOrder="374">
+            <navLabel>
+              <text>XXXVII. Use thyself; as often, as thou seest any man do anything,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00373"/>
+          </navPoint>
+          <navPoint id="np-375" playOrder="375">
+            <navLabel>
+              <text>XXXVIII. Remember, that that which sets a man at work, and hath power</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00374"/>
+          </navPoint>
+          <navPoint id="np-376" playOrder="376">
+            <navLabel>
+              <text>THE ELEVENTH BOOK</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00375"/>
+          </navPoint>
+          <navPoint id="np-377" playOrder="377">
+            <navLabel>
+              <text>I. The natural properties, and privileges of a reasonable soul are: That</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00376"/>
+          </navPoint>
+          <navPoint id="np-378" playOrder="378">
+            <navLabel>
+              <text>II. A pleasant song or dance; the Pancratiast's exercise, sports that</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00377"/>
+          </navPoint>
+          <navPoint id="np-379" playOrder="379">
+            <navLabel>
+              <text>III. That soul which is ever ready, even now presently (if need be) from</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00378"/>
+          </navPoint>
+          <navPoint id="np-380" playOrder="380">
+            <navLabel>
+              <text>IV. Have I done anything charitably? then am I benefited by it. See</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00379"/>
+          </navPoint>
+          <navPoint id="np-381" playOrder="381">
+            <navLabel>
+              <text>V. Tragedies were at first brought in and instituted, to put men in mind</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00380"/>
+          </navPoint>
+          <navPoint id="np-382" playOrder="382">
+            <navLabel>
+              <text>VI. How clearly doth it appear unto thee, that no other course of thy</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00381"/>
+          </navPoint>
+          <navPoint id="np-383" playOrder="383">
+            <navLabel>
+              <text>VII. A branch cut off from the continuity of that which was next unto</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-10.htm.html#pgepubid00382"/>
+          </navPoint>
+          <navPoint id="np-384" playOrder="384">
+            <navLabel>
+              <text>VIII. To grow together like fellow branches in matter of good</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00383"/>
+          </navPoint>
+          <navPoint id="np-385" playOrder="385">
+            <navLabel>
+              <text>IX. It is not possible that any nature should be inferior unto art,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00384"/>
+          </navPoint>
+          <navPoint id="np-386" playOrder="386">
+            <navLabel>
+              <text>X. The things themselves (which either to get or to avoid thou art put</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00385"/>
+          </navPoint>
+          <navPoint id="np-387" playOrder="387">
+            <navLabel>
+              <text>XI. Then is the soul as Empedocles doth liken it, like unto a sphere or</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00386"/>
+          </navPoint>
+          <navPoint id="np-388" playOrder="388">
+            <navLabel>
+              <text>XII. Will any contemn me? let him look to that, upon what grounds he</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00387"/>
+          </navPoint>
+          <navPoint id="np-389" playOrder="389">
+            <navLabel>
+              <text>XIII. They contemn one another, and yet they seek to please one another:</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00388"/>
+          </navPoint>
+          <navPoint id="np-390" playOrder="390">
+            <navLabel>
+              <text>XIV. How rotten and insincere is he, that saith, I am resolved to carry</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00389"/>
+          </navPoint>
+          <navPoint id="np-391" playOrder="391">
+            <navLabel>
+              <text>XV. To live happily is an inward power of the soul, when she is affected</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00390"/>
+          </navPoint>
+          <navPoint id="np-392" playOrder="392">
+            <navLabel>
+              <text>XVI. Of everything thou must consider from whence it came, of what</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00391"/>
+          </navPoint>
+          <navPoint id="np-393" playOrder="393">
+            <navLabel>
+              <text>XVII. Four several dispositions or inclinations there be of the mind and</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00392"/>
+          </navPoint>
+          <navPoint id="np-394" playOrder="394">
+            <navLabel>
+              <text>XVIII. What portion soever, either of air or fire there be in thee,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00393"/>
+          </navPoint>
+          <navPoint id="np-395" playOrder="395">
+            <navLabel>
+              <text>XIX. He that hath not one and the self-same general end always as long</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00394"/>
+          </navPoint>
+          <navPoint id="np-396" playOrder="396">
+            <navLabel>
+              <text>XX. Remember the fable of the country mouse and the city mouse, and the</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00395"/>
+          </navPoint>
+          <navPoint id="np-397" playOrder="397">
+            <navLabel>
+              <text>XXI. Socrates was wont to call the common conceits and opinions of men,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00396"/>
+          </navPoint>
+          <navPoint id="np-398" playOrder="398">
+            <navLabel>
+              <text>XXII. The Lacedaemonians at their public spectacles were wont to appoint</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00397"/>
+          </navPoint>
+          <navPoint id="np-399" playOrder="399">
+            <navLabel>
+              <text>XXIII. What Socrates answered unto Perdiccas, why he did not come unto</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00398"/>
+          </navPoint>
+          <navPoint id="np-400" playOrder="400">
+            <navLabel>
+              <text>XXIV. In the ancient mystical letters of the Ephesians, there was an</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00399"/>
+          </navPoint>
+          <navPoint id="np-401" playOrder="401">
+            <navLabel>
+              <text>XXV. The Pythagoreans were wont betimes in the morning the first thing</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00400"/>
+          </navPoint>
+          <navPoint id="np-402" playOrder="402">
+            <navLabel>
+              <text>XXVI. How Socrates looked, when he was fain to gird himself with a</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00401"/>
+          </navPoint>
+          <navPoint id="np-403" playOrder="403">
+            <navLabel>
+              <text>XXVII. In matter of writing or reading thou must needs be taught before</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00402"/>
+          </navPoint>
+          <navPoint id="np-404" playOrder="404">
+            <navLabel>
+              <text>XXVIII. 'My heart smiled within me.' 'They will accuse even virtue</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00403"/>
+          </navPoint>
+          <navPoint id="np-405" playOrder="405">
+            <navLabel>
+              <text>XXIX. As they that long after figs in winter when they cannot be had; so</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00404"/>
+          </navPoint>
+          <navPoint id="np-406" playOrder="406">
+            <navLabel>
+              <text>XXX. 'As often as a father kisseth his child, he should say secretly</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00405"/>
+          </navPoint>
+          <navPoint id="np-407" playOrder="407">
+            <navLabel>
+              <text>XXXI. 'Of the free will there is no thief or robber:' out of Epictetus;</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00406"/>
+          </navPoint>
+          <navPoint id="np-408" playOrder="408">
+            <navLabel>
+              <text>THE TWELFTH BOOK</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00407"/>
+          </navPoint>
+          <navPoint id="np-409" playOrder="409">
+            <navLabel>
+              <text>I. Whatsoever thou doest hereafter aspire unto, thou mayest even now</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00408"/>
+          </navPoint>
+          <navPoint id="np-410" playOrder="410">
+            <navLabel>
+              <text>II. God beholds our minds and understandings, bare and naked from these</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00409"/>
+          </navPoint>
+          <navPoint id="np-411" playOrder="411">
+            <navLabel>
+              <text>III. I have often wondered how it should come to pass, that every man</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00410"/>
+          </navPoint>
+          <navPoint id="np-412" playOrder="412">
+            <navLabel>
+              <text>IV. how come it to pass that the Gods having ordered all other things</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00411"/>
+          </navPoint>
+          <navPoint id="np-413" playOrder="413">
+            <navLabel>
+              <text>V. Use thyself even unto those things that thou doest at first despair</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00412"/>
+          </navPoint>
+          <navPoint id="np-414" playOrder="414">
+            <navLabel>
+              <text>VI. Let these be the objects of thy ordinary meditation: to consider,</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00413"/>
+          </navPoint>
+          <navPoint id="np-415" playOrder="415">
+            <navLabel>
+              <text>VII. All worldly things thou must behold and consider, dividing them</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00414"/>
+          </navPoint>
+          <navPoint id="np-416" playOrder="416">
+            <navLabel>
+              <text>VIII. How happy is man in this his power that hath been granted unto</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00415"/>
+          </navPoint>
+          <navPoint id="np-417" playOrder="417">
+            <navLabel>
+              <text>IX. Whatsoever doth happen in the ordinary course and consequence of</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00416"/>
+          </navPoint>
+          <navPoint id="np-418" playOrder="418">
+            <navLabel>
+              <text>X. How ridiculous and strange is he, that wonders at anything that</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00417"/>
+          </navPoint>
+          <navPoint id="np-419" playOrder="419">
+            <navLabel>
+              <text>XI. Either fate, (and that either an absolute necessity, and unavoidable</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00418"/>
+          </navPoint>
+          <navPoint id="np-420" playOrder="420">
+            <navLabel>
+              <text>XII. At the conceit and apprehension that such and such a one hath</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00419"/>
+          </navPoint>
+          <navPoint id="np-421" playOrder="421">
+            <navLabel>
+              <text>XIII. If it be not fitting, do it not. If it be not true, speak it not.</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00420"/>
+          </navPoint>
+          <navPoint id="np-422" playOrder="422">
+            <navLabel>
+              <text>XIV. Of everything that presents itself unto thee, to consider what the</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00421"/>
+          </navPoint>
+          <navPoint id="np-423" playOrder="423">
+            <navLabel>
+              <text>XV. It is high time for thee, to understand that there is somewhat in</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00422"/>
+          </navPoint>
+          <navPoint id="np-424" playOrder="424">
+            <navLabel>
+              <text>XVI. Remember that all is but opinion, and all opinion depends of the</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00423"/>
+          </navPoint>
+          <navPoint id="np-425" playOrder="425">
+            <navLabel>
+              <text>XVII. No operation whatsoever it he, ceasing for a while, can be truly</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00424"/>
+          </navPoint>
+          <navPoint id="np-426" playOrder="426">
+            <navLabel>
+              <text>XVIII. These three things thou must have always in a readiness: first</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00425"/>
+          </navPoint>
+          <navPoint id="np-427" playOrder="427">
+            <navLabel>
+              <text>XIX. Cast away from thee opinion, and thou art safe. And what is it that</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00426"/>
+          </navPoint>
+          <navPoint id="np-428" playOrder="428">
+            <navLabel>
+              <text>XX. Let thy thoughts ever run upon them, who once for some one thing or</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00427"/>
+          </navPoint>
+          <navPoint id="np-429" playOrder="429">
+            <navLabel>
+              <text>XXI. To them that ask thee, Where hast thou seen the Gods, or how</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00428"/>
+          </navPoint>
+          <navPoint id="np-430" playOrder="430">
+            <navLabel>
+              <text>XXII. Herein doth consist happiness of life, for a man to know</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00429"/>
+          </navPoint>
+          <navPoint id="np-431" playOrder="431">
+            <navLabel>
+              <text>XXIII. There is but one light of the sun, though it be intercepted by</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00430"/>
+          </navPoint>
+          <navPoint id="np-432" playOrder="432">
+            <navLabel>
+              <text>XXIV. What doest thou desire? To live long. What? To enjoy the</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00431"/>
+          </navPoint>
+          <navPoint id="np-433" playOrder="433">
+            <navLabel>
+              <text>XXV. What a small portion of vast and infinite eternity it is, that is</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-11.htm.html#pgepubid00432"/>
+          </navPoint>
+          <navPoint id="np-434" playOrder="434">
+            <navLabel>
+              <text>XXVI. What is the present estate of my understanding? For herein lieth</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-12.htm.html#pgepubid00433"/>
+          </navPoint>
+          <navPoint id="np-435" playOrder="435">
+            <navLabel>
+              <text>XXVII. To stir up a man to the contempt of death this among other</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-12.htm.html#pgepubid00434"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-436" playOrder="436">
+      <navLabel>
+        <text>APPENDIX</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-12.htm.html#pgepubid00435"/>
+      <navPoint id="np-437" playOrder="437">
+        <navLabel>
+          <text>NOTES</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-12.htm.html#pgepubid00436"/>
+      </navPoint>
+      <navPoint id="np-438" playOrder="438">
+        <navLabel>
+          <text>GLOSSARY</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@2680@2680-h@2680-h-12.htm.html#pgepubid00437"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

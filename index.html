@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Lunean: Reader</title>
+
+    <!-- Bootstrap -->
+    <!--<link href="css/bootstrap.min.css" rel="stylesheet">-->
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/simplex/bootstrap.min.css">
+
+    <!-- Latest compiled and minified CSS -->
+    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">-->
+
+    <!-- Optional theme -->
+    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">-->
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <style type="text/css">
+      html,body { height: 100%; margin: 0px; padding: 0px; background-color: #fff; overflow-x:hidden; }
+
+      @media all and (max-width: 767px) {
+        .page-buttons { display: none !important; }
+        #main { padding: 50px; }
+        .fixheader { display: none !important; }
+      }
+
+      @media all and (min-width: 767px) {
+        #info { text-align: right; }
+      }
+
+      .busy { color: red !important };
+    </style>
+  </head>
+  <body>
+    <div id="loadingModal" class="modal">
+      <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title">Loading ...</h4>
+          </div>
+          <div class="modal-body">
+            <div class="progress progress-striped active" style="margin-bottom: 0;">
+              <div class="progress-bar" style="width: 100%"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-3 page-buttons" style="display:table; text-align:center; height:95vh;" onclick="book.prevPage();">
+        <div style="display:table-cell; vertical-align:middle; font-size: 4em; font-weight: 900;">
+          <span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span>
+        </div>
+      </div>
+
+      <div id="main" class="col-md-6 row" style="padding-top: 15px;">
+        <div id="header" class="row" style="padding-top: 8px; padding-bottom: 15px;">
+          <div class="col-md-9" style="font-size: 1.2em;">
+            <span id="title">Title</span>
+          </div>
+          <div id="info" class="col-md-3" style="font-size: 1.2em;">
+            <span id="fullscreen" style="font-size: 0.8em;" class="glyphicon glyphicon-fullscreen" aria-hidden="true"></span>/<span id="currentPage">0</span>/<span id="currentLastPage">0</span>/<span id="totalPages">0</span>/<span id="bullet" class="glyphicon glyphicon-record" style="font-size: 0.9em;"></span>
+            <!--●-->
+          </div>
+        </div>
+        <div id="area" style="text-align: justify; line-height: 1.55em; font-size: 1.3em; height: 90vh; width: 100%"></div>
+      </div>
+
+      <div class="col-md-3 page-buttons" style="display:table; text-align:center; height:100vh;" onclick="book.nextPage();">
+        <div style="display:table-cell; vertical-align:middle; font-size: 4em; font-weight: 900;">
+          <span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span>
+        </div>
+      </div>
+    </div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <!--<script src="js/bootstrap.min.js"></script>-->
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <script>
+    function parse_query_string(query) {
+      var vars = query.split("&");
+      var query_string = {};
+      for (var i = 0; i < vars.length; i++) {
+        var pair = vars[i].split("=");
+        // If first entry with this name
+        if (typeof query_string[pair[0]] === "undefined") {
+          query_string[pair[0]] = decodeURIComponent(pair[1]);
+          // If second entry with this name
+        } else if (typeof query_string[pair[0]] === "string") {
+          var arr = [query_string[pair[0]], decodeURIComponent(pair[1])];
+          query_string[pair[0]] = arr;
+          // If third or later entry with this name
+        } else {
+          query_string[pair[0]].push(decodeURIComponent(pair[1]));
+        }
+      }
+      return query_string;
+    }
+
+    var query = window.location.search.substring(1);
+    var qs = parse_query_string(query);
+
+    console.log("book: " + qs.book);
+    </script>
+
+    <script src='https://code.responsivevoice.org/responsivevoice.js'></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/annyang/2.6.0/annyang.min.js"></script>
+    <script>
+    // SHOW LOADING
+    $(document).ready(function() {
+      $("#loadingModal").modal({backdrop: "static", keyboard: false, show: true});
+    });
+
+    // LOAD AUDIO
+    var audio = new Audio('/snd/file-sounds-923-chime.mp3');
+
+    // VOICE default
+    //responsiveVoice.setDefaultVoice("Australian Female");
+
+    // LOAD COMMANDS
+    if (annyang) {
+      annyang.debug(true);
+
+      // Let's define our first command. First the text we expect, and then the function it should call
+      var commands = {
+        'next': function() {
+          console.log("1: ");
+          //window.location.href = "http://127.0.0.1:8080/kindle_ebook_reader_2.html";
+          book.nextPage();
+
+          book.pageListReady.then(function(pageList){
+            rendered.then(function(){
+                var currentLocation = book.getCurrentLocationCfi();
+                var currentPage = book.pagination.pageFromCfi(currentLocation);
+
+                curPage.innerText = currentPage;
+
+                console.log("P: " + currentPage);
+
+                checkPage(currentPage);
+                curLastPage.innerText = getCookie("last_page_read");
+            });
+          });
+        },
+        'back': function() {
+          console.log("2: ");
+          //window.location.href = "http://127.0.0.1:8080/kindle_ebook_reader.html";
+          book.prevPage();
+
+          book.pageListReady.then(function(pageList){
+            rendered.then(function(){
+                var currentLocation = book.getCurrentLocationCfi();
+                var currentPage = book.pagination.pageFromCfi(currentLocation);
+
+                curPage.innerText = currentPage;
+
+                console.log("P: " + currentPage);
+
+                checkPage(currentPage);
+                curLastPage.innerText = getCookie("last_page_read");
+            });
+          });
+        },
+        'page :page': function(page) {
+          console.log("3: " + page);
+          book.gotoPage(page);
+
+          book.pageListReady.then(function(pageList){
+            rendered.then(function(){
+                var currentLocation = book.getCurrentLocationCfi();
+                var currentPage = book.pagination.pageFromCfi(currentLocation);
+
+                curPage.innerText = currentPage;
+
+                console.log("P: " + currentPage);
+            });
+
+            totPage.innerText = book.pagination.totalPages;
+          });
+
+          checkPage(page);
+          curLastPage.innerText = getCookie("last_page_read");
+        },
+        'last page': function() {
+          console.log("4: ");
+
+          var page = getCookie("last_page_read");
+          console.log("4: " + page);
+
+          book.gotoPage(page);
+
+          book.pageListReady.then(function(pageList){
+            rendered.then(function(){
+                var currentLocation = book.getCurrentLocationCfi();
+                var currentPage = book.pagination.pageFromCfi(currentLocation);
+
+                curPage.innerText = currentPage;
+
+                console.log("P: " + currentPage);
+
+                checkPage(currentPage);
+                curLastPage.innerText = getCookie("last_page_read");
+            });
+          });
+        },
+        'current page': function() {
+          console.log("5: ");
+
+          annyang.abort();
+
+          book.pageListReady.then(function(pageList){
+            rendered.then(function(){
+                var currentLocation = book.getCurrentLocationCfi();
+                var currentPage = book.pagination.pageFromCfi(currentLocation);
+
+                console.log("P: " + currentPage);
+
+                responsiveVoice.speak(currentPage.toString());
+            });
+          });
+
+          setTimeout(function(){
+            annyang.start();
+
+            audio.play();
+
+            console.log("ready again");
+          }, 2000);
+        },
+        'read page': function() {
+          console.log("6: ");
+
+          var tmp = "blank page";
+
+          if(curText.length > 0) {
+            tmp = curText.replace(/”/g, '').replace(/!!/g, '!');
+          }
+
+          annyang.abort();
+          //var bullet = document.getElementById("bullet");
+          //bullet.innerText = "";
+
+          $("#bullet").toggleClass("busy");
+
+          responsiveVoice.speak(tmp);
+
+          // var time = curText.length * 74;
+          // console.log("T: ", curText.length);
+          //
+          // setTimeout(function(){
+          //   annyang.start();
+          //   $("#bullet").toggleClass("busy");
+          //   audio.play();
+          //
+          //   console.log("ready again");
+          // }, time);
+
+          var isPlaying = setInterval(function(){
+            console.log("is playing");
+
+            if(!responsiveVoice.isPlaying()) {
+              console.log("finished playing");
+
+              annyang.start();
+              $("#bullet").toggleClass("busy");
+              audio.play();
+
+              clearInterval(isPlaying);
+            }
+          }, 1000);
+        },
+        'bookmark page': function() {
+          console.log("7: ");
+
+          book.pageListReady.then(function(pageList){
+            rendered.then(function(){
+                var currentLocation = book.getCurrentLocationCfi();
+                var currentPage = book.pagination.pageFromCfi(currentLocation);
+
+                console.log("P: " + currentPage);
+
+                var cname = "bookmark_page";
+                document.cookie = cname + "=" + currentPage;
+
+                responsiveVoice.speak("done");
+            });
+          });
+        },
+        'go to bookmark': function() {
+          console.log("8: ");
+
+          var page = getCookie("bookmark_page");
+
+          book.gotoPage(page);
+
+          book.pageListReady.then(function(pageList){
+            rendered.then(function(){
+                var currentLocation = book.getCurrentLocationCfi();
+                var currentPage = book.pagination.pageFromCfi(currentLocation);
+
+                curPage.innerText = currentPage;
+
+                console.log("P: " + currentPage);
+            });
+          });
+        },
+        'stop voice': function() {
+          console.log("9: ");
+          annyang.abort();
+        }
+
+        // NOTE: Failed to execute 'requestFullscreen' on 'Element': API can only be initiated by a user gesture.
+        // 'toggle screen': function() {
+        //   console.log("9: ");
+        //   screenfull.toggle();
+        // }
+      };
+
+      // Add our commands to annyang
+      annyang.addCommands(commands);
+
+      // Start listening. You can call this here, or attach this call to an event, button, etc.
+      annyang.start();
+    }
+
+    function makeid() {
+      var text = "";
+      var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+
+      for (var i = 0; i < 5; i++)
+        text += possible.charAt(Math.floor(Math.random() * possible.length));
+
+      return text;
+    }
+
+    console.log(makeid());
+    </script>
+
+    <script>
+      //document.cookie = "last_page_read=80";
+
+      function getCookie(cname) {
+        var name = cname + "=";
+        var ca = document.cookie.split(';');
+        for(var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
+      }
+
+      function checkPage(page) {
+        var last_page_read = getCookie("last_page_read");
+
+        if(page === parseInt(page, 10) && (last_page_read < page)) {
+          var cname = "last_page_read";
+          document.cookie = cname + "=" + page;
+
+          console.log("LP: " + page);
+        } else {
+          console.log("LP: false, " + last_page_read + " P: ", page);
+        }
+      }
+    </script>
+
+    <script src="js/epub.min.js"></script>
+    <script src="js/zip.min.js"></script>
+    <script>
+      var curPage = document.getElementById("currentPage");
+      var totPage = document.getElementById("totalPages");
+
+      var curLastPage = document.getElementById("currentLastPage");
+      curLastPage.innerText = getCookie("last_page_read");
+
+      var curText = "";
+
+      console.log("P0: " + curPage);
+
+      var bookFile;
+
+      if(qs.book) {
+        bookFile = "books/" + qs.book;
+
+        //http://127.0.0.1:8080/?book=the_tribe.epub
+        //http://127.0.0.1:8080/?book=pg2680.epub
+      } else {
+        bookFile = "books/pg2680.epub";
+        //var bookFile = "books/the_tribe/";
+        //var bookFile = "books/the_tribe.epub";
+        //var book = ePub("books/tmp/", { restore: true, styles : { font-family: "sans-serif" } });
+        //var book = ePub("books/tmp.epub", { restore: true });
+      }
+
+      var book = ePub(bookFile, {
+        spreads : false,
+        styles: { "font-family": "sans-serif", "font-size": "1.5em" }
+      });
+
+      var rendered = book.renderTo("area");
+
+      book.getMetadata().then(function(meta){
+        var tmp = meta.bookTitle + " – " + meta.creator;
+        document.title = tmp;
+        title.innerText = tmp;
+      });
+
+      book.generatePagination();
+
+      book.pageListReady.then(function(pageList){
+        rendered.then(function(){
+            var currentLocation = book.getCurrentLocationCfi();
+            var currentPage = book.pagination.pageFromCfi(currentLocation);
+
+            curPage.innerText = currentPage;
+
+            console.log("P: " + currentPage);
+
+            checkPage(currentPage);
+        });
+
+        totPage.innerText = book.pagination.totalPages;
+
+        $("#loadingModal").modal("hide");
+      });
+
+      // GET CURRENT TEXT
+      book.on("renderer:visibleRangeChanged", function(cfirange) {
+        var text = '';
+        var cfi = new EPUBJS.EpubCFI();
+        var startRange = cfi.generateRangeFromCfi(cfirange.start, book.renderer.render.document);
+        var endRange = cfi.generateRangeFromCfi(cfirange.end, book.renderer.render.document);
+        // Create a new range to handle full cfi range (this should be fixed in v0.3)
+        var fullRange = document.createRange();
+        if (startRange) {
+          fullRange.setStart(startRange.startContainer, startRange.startOffset);
+        }
+        if (endRange) {
+          fullRange.setEnd(endRange.startContainer, endRange.startOffset);
+        }
+        curText = fullRange.toString();
+        console.log("TEXT: " + curText);
+      });
+    </script>
+
+    <script src="https://hammerjs.github.io/dist/hammer.js"></script>
+    <script>
+      var el = document.getElementById('main');
+
+      // create a simple instance
+      // by default, it only adds horizontal recognizers
+      var mc = new Hammer(el);
+
+      mc.on("swipeleft", function(ev) {
+        console.log("swipeleft");
+
+        book.nextPage();
+
+        book.pageListReady.then(function(pageList){
+          rendered.then(function(){
+              var currentLocation = book.getCurrentLocationCfi();
+              var currentPage = book.pagination.pageFromCfi(currentLocation);
+
+              curPage.innerText = currentPage;
+
+              console.log("P: " + currentPage);
+
+              checkPage(currentPage);
+              curLastPage.innerText = getCookie("last_page_read");
+          });
+        });
+      });
+
+      mc.on("swiperight", function(ev) {
+        console.log("swiperight");
+
+        book.prevPage();
+
+        book.pageListReady.then(function(pageList){
+          rendered.then(function(){
+              var currentLocation = book.getCurrentLocationCfi();
+              var currentPage = book.pagination.pageFromCfi(currentLocation);
+
+              curPage.innerText = currentPage;
+
+              console.log("P: " + currentPage);
+
+              checkPage(currentPage);
+              curLastPage.innerText = getCookie("last_page_read");
+          });
+        });
+      });
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/screenfull.js/3.3.1/screenfull.min.js"></script>
+    <script>
+    $("#fullscreen").click(function() {
+      screenfull.toggle();
+    });
+    </script>
+  </body>
+</html>
