@@ -4,12 +4,6 @@
 
 An e-reader for people with limited vision, mobility, or dexterity featuring voice controlled commands (e.g. for page turning) as well as text-to-speech functionality to read out loud book pages. The features and interface are minimal to be straight forward and should work on tablets, phones, and desktop computers. This e-book reader can be used for 1000s of books including those from Project Gutenberg that offers over 50,000 free e-books.
 
-# Demo
-
-```
-http://reader.lunean.com
-```
-
 # Voice Commands
 
 * next: Next page
