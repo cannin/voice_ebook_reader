@@ -9,12 +9,15 @@ An e-reader for people with limited vision, mobility, or dexterity featuring voi
 * next: Next page
 * back: Previous page
 * page N: Go to page N
+* chapter N: Go to chapter N 
 * last page: Go to the last page read
 * current page: Reader says the current page number
+* current chapter: Reader says the current chapter number 
 * read page: Reads current page aloud in English
 * bookmark page: Bookmark current page
 * go to bookmark: Access current page
 * stop voice: Stop voice commands (page must refreshed to access voice commands again)
+* reset last page: Resets the last page visited to the current page 
 
 # Other Features
 
@@ -68,4 +71,9 @@ Different books can be access by using a query string in the URL with the book f
 
 ```
 http://127.0.0.1:8080/?book=pg1.epub
+```
+
+# Todo
+```
+- [ ] night mode; https://github.com/futurepress/epub.js/issues/349
 ```

@@ -29,13 +29,13 @@
     <style type="text/css">
       html,body { height: 100%; margin: 0px; padding: 0px; background-color: #fff; overflow-x:hidden; }
 
-      @media all and (max-width: 767px) {
+      @media all and (max-width: 992px) {
         .page-buttons { display: none !important; }
         #main { padding: 50px; }
         .fixheader { display: none !important; }
       }
 
-      @media all and (min-width: 767px) {
+      @media all and (min-width: 992px) {
         #info { text-align: right; }
       }
 
@@ -240,7 +240,7 @@
 
                 console.log("P: " + currentPage);
 
-                responsiveVoice.speak(currentPage.toString());
+                responsiveVoice.speak("page " + currentPage.toString());
             });
           });
 
@@ -250,7 +250,26 @@
             audio.play();
 
             console.log("ready again");
-          }, 2000);
+          }, 3000);
+        },
+		'current chapter': function() {
+          console.log("5: ");
+
+          annyang.abort();
+
+          book.pageListReady.then(function(pageList){
+            rendered.then(function(){
+                responsiveVoice.speak("chapter " + book.renderer.currentChapter.spinePos.toString());
+            });
+          });
+
+          setTimeout(function(){
+            annyang.start();
+
+            audio.play();
+
+            console.log("ready again");
+          }, 3000);
         },
         'read page': function() {
           console.log("6: ");
@@ -311,6 +330,23 @@
             });
           });
         },
+		'reset last page': function() {
+          console.log("7: ");
+
+          book.pageListReady.then(function(pageList){
+            rendered.then(function(){
+                var currentLocation = book.getCurrentLocationCfi();
+                var currentPage = book.pagination.pageFromCfi(currentLocation);
+
+                console.log("P: " + currentPage);
+
+                var cname = "last_page_read";
+                document.cookie = cname + "=" + currentPage;
+
+                responsiveVoice.speak("done");
+            });
+          });
+        },
         'go to bookmark': function() {
           console.log("8: ");
 
@@ -332,7 +368,14 @@
         'stop voice': function() {
           console.log("9: ");
           annyang.abort();
-        }
+        }, 
+		'chapter :chapter': function(chapter) {
+			window.tmp = book.renderer.currentChapter;
+			console.log("10: " + tmp);
+			book.displayChapter(chapter, false);
+			
+			responsiveVoice.speak("done");
+		}
 
         // NOTE: Failed to execute 'requestFullscreen' on 'Element': API can only be initiated by a user gesture.
         // 'toggle screen': function() {
@@ -425,6 +468,8 @@
         spreads : false,
         styles: { "font-family": "sans-serif", "font-size": "1.5em" }
       });
+	  
+	  book.forceSingle(true);
 
       var rendered = book.renderTo("area");
 
